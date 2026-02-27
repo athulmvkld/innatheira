@@ -265,7 +265,7 @@ HTML_TEMPLATE = """
     </button>
 
     <div class="main-content">
-        <h1>innathe ira😆</h1>
+        <h1>innathe ira..</h1>
         
         <div class="wheel-container">
             <div class="pointer"></div>
